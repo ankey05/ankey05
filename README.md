@@ -1,7 +1,7 @@
 <div align="center">
 
 # Hi, I'm Aniket Kumar 👋  
-### CSE Diploma Student | Python Learner | Future Developer
+### CSE Diploma Student | Curious Learner | Future Developer
 
 </div>
 
@@ -14,18 +14,17 @@ I enjoy solving problems, building small projects, and improving my skills step 
 ---
 
 ## 🚀 Currently Learning
-- Python (basics to intermediate)  
+- C language (basics to intermediate)  
 - Data structures (lists, sets, dictionaries)  
 - Logic building & problem solving  
 
 ---
 
 ## 🛠 Skills
-<div align="center">
 
-> *"Empty skill section is 100x better than a dishonest one."*
+ - <h4>PYTHON</h4>
 
-</div>
+
  
 
 ---
