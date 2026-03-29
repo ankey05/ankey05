@@ -22,7 +22,9 @@ I enjoy solving problems, building small projects, and improving my skills step 
 
 ## 🛠 Skills
 
- - <h4>PYTHON</h4>
+ - PYTHON
+ - HTML
+ - CSS
 
 
  
