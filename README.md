@@ -1,11 +1,11 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:0f3460&height=200&section=header&text=Hi%20I'm%20Aniket%20Kumar%20👋&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Diploma%20in%20CSE%20|%20Aspiring%20Developer&descAlignY=55&descColor=a0b4cc" width="100%"/>
+[![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=200§ion=header&text=Hi%20I'm%20Aniket%20Kumar%20%F0%9F%91%8B&fontSize=38&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Diploma%20in%20CSE%20%7C%20Aspiring%20Developer&descAlignY=55&descColor=ddd)](https://github.com/ankey05)
 
 
 <div align="center">
 
-![Visitor Count](https://profile-counter.glitch.me/ankey05/count.svg)
+[![Visitors](https://visitcount.itsvg.in/api?id=ankey05&label=Profile%20Views&color=6&icon=0&pretty=true)](https://visitcount.itsvg.in)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=ankey05&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=ankey05&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 </div>
 
 
@@ -28,9 +28,10 @@
 
 ## 🎯 Goals 2026
 
-- [ ] Build Python automation projects from scratch
+- [x] Build Python automation projects from scratch
 - [ ] Complete Data Structures & Algorithms in C
 - [ ] Master DBMS fundamentals
+- [ ] Push first open-source project on GitHub
 - [ ] Dive deeper into Web Development
 
 ---
@@ -55,7 +56,6 @@
 ## 🔗 Connect With Me
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:dasaniket333@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/ankey05)
 
 ---
@@ -70,3 +70,4 @@
 
 
 
+[![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=100§ion=footer)](https://github.com/ankey05)
