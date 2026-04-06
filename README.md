@@ -1,7 +1,7 @@
-<p align="center">
   
 [![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=200&section=header&text=Hi%20I'm%20Aniket%20Kumar%20%F0%9F%91%8B&fontSize=38&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Diploma%20in%20CSE%20%7C%20Aspiring%20Developer&descAlignY=55&descColor=ddd)](https://github.com/ankey05)
 
+<p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Aspiring+Developer;Python+Automation+Enthusiast;DSA+in+Progress;Building+Consistency" />
 </p>
 
