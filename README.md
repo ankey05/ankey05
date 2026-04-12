@@ -24,7 +24,7 @@
 ## 🛠 Skills
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,html,css,c" />
+  <img src="https://skillicons.dev/icons?i=python,html,css,vscode,git,github" />
 </p>
 
 ---
