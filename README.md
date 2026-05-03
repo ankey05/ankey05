@@ -78,10 +78,13 @@
 
 ---
 
+
 ## 💬 Quote
 
+<!--Dynamic Quote card updates everyday at 12 PM-->
+<h2 align="center">🌟 Tʜᴏᴜɢʜᴛ ᴏғ ᴛʜᴇ Dᴀʏ 🌟</h2>
 <p align="center">
-"The secret of getting ahead is getting started." — Mark Twain
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
 </p>
 
 ---
